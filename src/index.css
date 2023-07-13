@@ -1,0 +1,9 @@
+.red{
+  fill: rgb(117, 224, 29);
+}
+
+
+*{
+  background-color: rgb(0, 0, 0);
+  background-image: "aa.jpg";
+}
